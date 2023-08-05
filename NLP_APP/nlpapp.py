@@ -1,7 +1,7 @@
 import streamlit as st
 
 #NLP Pkgs
-import nltk
+#import nltk
 import spacy
 from textblob import TextBlob
 from gensim.summarization import summarize
